@@ -102,7 +102,7 @@ public class HomeWork1 {
     }
 
 
-    
+
 
     static void arithmeticOperations(){
         System.out.println(10);   // Вывод 10
